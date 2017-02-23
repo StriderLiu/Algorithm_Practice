@@ -1,4 +1,5 @@
 from collections import deque
+import string
 
 class Solution(object):
     def findLadders(self, beginWord, endWord, wordlist):

@@ -2,18 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca4a9fb9-268e-4a33-b22f-cbcc105d36af" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BinaryTree/FIndLeaves.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BinaryTree/FindModeInBST.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BinaryTree/InorderIterative.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BinaryTree/LargestBSTSubtree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BinaryTree/MorrisInorder.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BinaryTree/MorrisPreorder.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BinaryTree/PathSum3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BinaryTree/PreorderIterative.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BinaryTree/VerifyPreorderSeqInBST.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BinaryTree/InorderNonRecur.py" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Array&amp;Math/FirstMissingPositive.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Array&amp;Math/GameOfLife.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Array&amp;Math/LongestConsecutiveSequence.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Array&amp;Math/MajorityElement2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Array&amp;Math/MergeIntervals.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Array&amp;Math/MissingNumber.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Array&amp;Math/RotateArray.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Array&amp;Math/SetMatrixZeroes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Array&amp;Math/TrapWater.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BFS&amp;DFS/Recursion&amp;Backtracking/WordSearch.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Linkedlist/AddTwoNumbers2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Linkedlist/PartitionList.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Linkedlist/RemoveDuplicates2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Linkedlist/RotateList.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BFS&amp;DFS/PerfectSquares.py" afterPath="$PROJECT_DIR$/BFS&amp;DFS/PerfectSquares.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BFS&amp;DFS/WordLadder2.py" afterPath="$PROJECT_DIR$/BFS&amp;DFS/WordLadder2.py" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,21 +38,85 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FindModeInBST.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BinaryTree/FindModeInBST.py">
+      <file leaf-file-name="WordSearch.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BFS&amp;DFS/Recursion&amp;Backtracking/WordSearch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="39" column="28" lean-forward="false" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+            <state relative-caret-position="1440">
+              <caret line="80" column="34" lean-forward="false" selection-start-line="80" selection-start-column="34" selection-end-line="80" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LargestBSTSubtree.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BinaryTree/LargestBSTSubtree.py">
+      <file leaf-file-name="GameOfLife.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Array&amp;Math/GameOfLife.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" column="29" lean-forward="false" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+            <state relative-caret-position="18">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="30" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MajorityElement2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Array&amp;Math/MajorityElement2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordLadder2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BFS&amp;DFS/WordLadder2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PerfectSquares.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BFS&amp;DFS/PerfectSquares.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="51" column="47" lean-forward="false" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FirstMissingPositive.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Array&amp;Math/FirstMissingPositive.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TrapWater.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Array&amp;Math/TrapWater.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SetMatrixZeroes.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Array&amp;Math/SetMatrixZeroes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="666">
+              <caret line="37" column="36" lean-forward="true" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -68,24 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Array&amp;Math/HashTable/ValidAnagram.py" />
-        <option value="$PROJECT_DIR$/Stack&amp;Queue/SetOfStacks.py" />
-        <option value="$PROJECT_DIR$/Stack&amp;Queue/maxHistogram.py" />
-        <option value="$PROJECT_DIR$/Stack&amp;Queue/maxDitgitRectangle.py" />
-        <option value="$PROJECT_DIR$/Array&amp;Math/HashTable/RepeatDNA.py" />
-        <option value="$PROJECT_DIR$/Array&amp;Math/HashTable/Intersection.py" />
-        <option value="$PROJECT_DIR$/Array&amp;Math/HashTable/PanlindromePairs.py" />
-        <option value="$PROJECT_DIR$/Array&amp;Math/HashTable/TopKFrequent.py" />
-        <option value="$PROJECT_DIR$/Array&amp;Math/CountPrime.py" />
-        <option value="$PROJECT_DIR$/BFS&amp;DFS/CountIslands.py" />
-        <option value="$PROJECT_DIR$/BFS&amp;DFS/PerfectSquares.py" />
-        <option value="$PROJECT_DIR$/BFS&amp;DFS/CloneGraph.py" />
-        <option value="$PROJECT_DIR$/BFS&amp;DFS/RemoveInvalidPara.py" />
-        <option value="$PROJECT_DIR$/BFS&amp;DFS/WordLadder2.py" />
-        <option value="$PROJECT_DIR$/BFS&amp;DFS/CourseSchedule.py" />
-        <option value="$PROJECT_DIR$/BFS&amp;DFS/SurroundedRegions.py" />
-        <option value="$PROJECT_DIR$/BFS&amp;DFS/NextRight.py" />
-        <option value="$PROJECT_DIR$/BFS&amp;DFS/BinaryTreePaths.py" />
         <option value="$PROJECT_DIR$/BFS&amp;DFS/RecoverTree.py" />
         <option value="$PROJECT_DIR$/BFS&amp;DFS/FlattenTree.py" />
         <option value="$PROJECT_DIR$/BFS&amp;DFS/SortedListToBST.py" />
@@ -119,13 +170,30 @@
         <option value="$PROJECT_DIR$/BinaryTree/MorrisPreorder.py" />
         <option value="$PROJECT_DIR$/BinaryTree/FindModeInBST.py" />
         <option value="$PROJECT_DIR$/BinaryTree/LargestBSTSubtree.py" />
+        <option value="$PROJECT_DIR$/Linkedlist/PartitionList.py" />
+        <option value="$PROJECT_DIR$/Linkedlist/RotateList.py" />
+        <option value="$PROJECT_DIR$/Linkedlist/AddTwoNumbers2.py" />
+        <option value="$PROJECT_DIR$/Linkedlist/RemoveDuplicates2.py" />
+        <option value="$PROJECT_DIR$/Array&amp;Math/FindDup.py" />
+        <option value="$PROJECT_DIR$/Array&amp;Math/MergeIntervals.py" />
+        <option value="$PROJECT_DIR$/Array&amp;Math/RotateArray.py" />
+        <option value="$PROJECT_DIR$/Array&amp;Math/LongestConsecutiveSequence.py" />
+        <option value="$PROJECT_DIR$/Array&amp;Math/MissingNumber.py" />
+        <option value="$PROJECT_DIR$/Array&amp;Math/WordSearch.py" />
+        <option value="$PROJECT_DIR$/BFS&amp;DFS/Recursion&amp;Backtracking/WordSearch.py" />
+        <option value="$PROJECT_DIR$/Array&amp;Math/GameOfLife.py" />
+        <option value="$PROJECT_DIR$/Array&amp;Math/MajorityElement2.py" />
+        <option value="$PROJECT_DIR$/BFS&amp;DFS/WordLadder2.py" />
+        <option value="$PROJECT_DIR$/BFS&amp;DFS/PerfectSquares.py" />
+        <option value="$PROJECT_DIR$/Array&amp;Math/FirstMissingPositive.py" />
+        <option value="$PROJECT_DIR$/Array&amp;Math/TrapWater.py" />
+        <option value="$PROJECT_DIR$/Array&amp;Math/SetMatrixZeroes.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="793" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -142,6 +210,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -164,125 +234,110 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="BinaryTree" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BFS&amp;DFS" />
+              <option name="myItemId" value="Array&amp;Math" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BFS&amp;DFS/Recursion&amp;Backtracking" />
       <recent name="$PROJECT_DIR$/BinaryTree" />
       <recent name="$PROJECT_DIR$/BFS&amp;DFS" />
       <recent name="$PROJECT_DIR$/Tree&amp;Graph" />
       <recent name="$PROJECT_DIR$/Tree&amp;Graph/BinaryTree" />
-      <recent name="$PROJECT_DIR$/Array&amp;Math" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.FindModeInBST">
-    <configuration default="false" name="PreorderIterative" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.SetMatrixZeroes">
+    <configuration default="false" name="MajorityElement2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinaryTree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array&amp;Math" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinaryTree/PreorderIterative.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array&amp;Math/MajorityElement2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="FIndLeaves" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="WordLadder2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinaryTree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BFS&amp;DFS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinaryTree/FIndLeaves.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFS&amp;DFS/WordLadder2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="MorrisInorder" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="FirstMissingPositive" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinaryTree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array&amp;Math" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinaryTree/MorrisInorder.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array&amp;Math/FirstMissingPositive.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="MorrisPreorder" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="TrapWater" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinaryTree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array&amp;Math" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinaryTree/MorrisPreorder.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array&amp;Math/TrapWater.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="FindModeInBST" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="SetMatrixZeroes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinaryTree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array&amp;Math" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinaryTree/FindModeInBST.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array&amp;Math/SetMatrixZeroes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -422,19 +477,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.PreorderIterative" />
-      <item index="1" class="java.lang.String" itemvalue="Python.FIndLeaves" />
-      <item index="2" class="java.lang.String" itemvalue="Python.MorrisInorder" />
-      <item index="3" class="java.lang.String" itemvalue="Python.MorrisPreorder" />
-      <item index="4" class="java.lang.String" itemvalue="Python.FindModeInBST" />
+      <item index="0" class="java.lang.String" itemvalue="Python.MajorityElement2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.WordLadder2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.FirstMissingPositive" />
+      <item index="3" class="java.lang.String" itemvalue="Python.TrapWater" />
+      <item index="4" class="java.lang.String" itemvalue="Python.SetMatrixZeroes" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.FindModeInBST" />
-        <item index="1" class="java.lang.String" itemvalue="Python.MorrisPreorder" />
-        <item index="2" class="java.lang.String" itemvalue="Python.MorrisInorder" />
-        <item index="3" class="java.lang.String" itemvalue="Python.FIndLeaves" />
-        <item index="4" class="java.lang.String" itemvalue="Python.PreorderIterative" />
+        <item index="0" class="java.lang.String" itemvalue="Python.SetMatrixZeroes" />
+        <item index="1" class="java.lang.String" itemvalue="Python.TrapWater" />
+        <item index="2" class="java.lang.String" itemvalue="Python.FirstMissingPositive" />
+        <item index="3" class="java.lang.String" itemvalue="Python.WordLadder2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.MajorityElement2" />
       </list>
     </recent_temporary>
   </component>
@@ -459,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1486424494442</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Feb 6">
+      <created>1486954312400</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1486954312400</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -472,26 +534,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="793" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17829457" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.386747" sideWeight="0.34390417" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.426506" sideWeight="0.7258633" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.386747" sideWeight="0.65609586" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22289157" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48433736" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -537,6 +599,31 @@
           <line>20</line>
           <option name="timeStamp" value="45" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Linkedlist/PartitionList.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Linkedlist/RotateList.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BFS&amp;DFS/Recursion&amp;Backtracking/WordSearch.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array&amp;Math/GameOfLife.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array&amp;Math/TrapWater.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -545,137 +632,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="50" />
+      <option name="time" value="69" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Stack&amp;Queue/SetOfStacks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Stack&amp;Queue/StackWithMin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Stack&amp;Queue/ValidParentheses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="36" lean-forward="false" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Stack&amp;Queue/maxHistogram.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="49" lean-forward="false" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Stack&amp;Queue/maxDitgitRectangle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array&amp;Math/HashTable/RepeatDNA.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="48" lean-forward="false" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array&amp;Math/HashTable/Intersection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="39" lean-forward="false" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array&amp;Math/HashTable/PanlindromePairs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array&amp;Math/HashTable/TopKFrequent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="39" lean-forward="false" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array&amp;Math/CountPrime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="27" lean-forward="false" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BFS&amp;DFS/PerfectSquares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1098">
-          <caret line="62" column="20" lean-forward="false" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree/ZigzagOrder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BFS&amp;DFS/CloneGraph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="40" lean-forward="false" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BFS&amp;DFS/RemoveInvalidPara.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="33" column="21" lean-forward="false" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BFS&amp;DFS/WordLadder2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" column="38" lean-forward="false" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BFS&amp;DFS/CourseSchedule.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="774">
-          <caret line="43" column="27" lean-forward="false" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BFS&amp;DFS/CountIslands.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BFS&amp;DFS/BinaryTreePaths.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BFS&amp;DFS/SurroundedRegions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1386">
@@ -884,13 +845,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree/MorrisInorder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="32" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BinaryTree/MorrisPreorder.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
@@ -898,18 +852,163 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree/LargestBSTSubtree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="37" lean-forward="false" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BinaryTree/FindModeInBST.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
           <caret line="39" column="28" lean-forward="false" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linkedlist/PartitionList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree/LargestBSTSubtree.py">
+    <entry file="file://$PROJECT_DIR$/Linkedlist/RotateList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="29" lean-forward="false" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+        <state relative-caret-position="450">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linkedlist/AddTwoNumbers2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linkedlist/RemoveDuplicates2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="31" lean-forward="false" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree/MorrisInorder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array&amp;Math/FindDup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array&amp;Math/MergeIntervals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array&amp;Math/RotateArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="37" column="28" lean-forward="false" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array&amp;Math/LongestConsecutiveSequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array&amp;Math/MissingNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BFS&amp;DFS/Recursion&amp;Backtracking/Subsets2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-110">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BFS&amp;DFS/Recursion&amp;Backtracking/WordSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="80" column="34" lean-forward="false" selection-start-line="80" selection-start-column="34" selection-end-line="80" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array&amp;Math/GameOfLife.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="30" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array&amp;Math/MajorityElement2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BFS&amp;DFS/WordLadder2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BFS&amp;DFS/PerfectSquares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="51" column="47" lean-forward="false" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array&amp;Math/FirstMissingPositive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array&amp;Math/TrapWater.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array&amp;Math/SetMatrixZeroes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="37" column="36" lean-forward="true" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
           <folding />
         </state>
       </provider>

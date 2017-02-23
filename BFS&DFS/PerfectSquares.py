@@ -17,15 +17,15 @@ class Solution(object):
         #         j += 1
         # return f[n]
 
-        # # Static DP
+        # Static DP
         # dp = [0]
         # while len(dp) <= n:
-        #     # size, curtMin = len(dp), sys.maxsize
-        #     # j = 1
-        #     # while j * j <= size:
-        #     #     curtMin = min(curtMin, dp[size - j * j] + 1)
-        #     #     j += 1
-        #     # dp += [curtMin]
+        #     size, curtMin = len(dp), sys.maxsize
+        #     j = 1
+        #     while j * j <= size:
+        #         curtMin = min(curtMin, dp[size - j * j] + 1)
+        #         j += 1
+        #     dp += [curtMin]
         #
         #     # Let's do it more pythonic!!!
         #     dp += [min(dp[-i * i] for i in range(1, int(len(dp) ** 0.5) + 1)) + 1]
@@ -53,25 +53,25 @@ class Solution(object):
         #
         # return cnt
 
-        # Better BFS (less memory cost)
-        if n < 4:
-            return n
-        squares = [i * i for i in range(1, int(n ** 0.5) + 1)]
-        cnt, toCheck = 0, {n}
-
-        while toCheck:
-            cnt += 1
-            tmp = set()
-            for curt in toCheck:
-                for square in squares:
-                    if square > curt:
-                        break
-                    if square == curt:
-                        return cnt
-                    tmp.add(curt - square)
-            toCheck = tmp
-
-        return cnt
+        # # Better BFS (less memory cost)
+        # if n < 4:
+        #     return n
+        # squares = [i * i for i in range(1, int(n ** 0.5) + 1)]
+        # cnt, toCheck = 0, {n}
+        #
+        # while toCheck:
+        #     cnt += 1
+        #     tmp = set()
+        #     for curt in toCheck:
+        #         for square in squares:
+        #             if square > curt:
+        #                 break
+        #             if square == curt:
+        #                 return cnt
+        #             tmp.add(curt - square)
+        #     toCheck = tmp
+        #
+        # return cnt
 
 
 print(Solution().numSquares(1535))
