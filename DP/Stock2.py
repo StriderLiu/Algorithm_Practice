@@ -12,3 +12,6 @@ class Solution(object):
             if prices[i + 1] > prices[i]:
                 maxPro += prices[i + 1] - prices[i]
         return maxPro
+
+prices = [6, 1, 3, 2, 4, 7]
+print(Solution().maxProfit(prices))
