@@ -53,25 +53,25 @@ class Solution(object):
         #
         # return cnt
 
-        # # Better BFS (less memory cost)
-        # if n < 4:
-        #     return n
-        # squares = [i * i for i in range(1, int(n ** 0.5) + 1)]
-        # cnt, toCheck = 0, {n}
-        #
-        # while toCheck:
-        #     cnt += 1
-        #     tmp = set()
-        #     for curt in toCheck:
-        #         for square in squares:
-        #             if square > curt:
-        #                 break
-        #             if square == curt:
-        #                 return cnt
-        #             tmp.add(curt - square)
-        #     toCheck = tmp
-        #
-        # return cnt
+        # Better BFS (less memory cost)
+        if n < 4:
+            return n
+        squares = [i * i for i in range(1, int(n ** 0.5) + 1)]
+        cnt, toCheck = 0, {n}
+
+        while toCheck:
+            cnt += 1
+            tmp = set()
+            for curt in toCheck:
+                for square in squares:
+                    if square > curt:
+                        break
+                    if square == curt:
+                        return cnt
+                    tmp.add(curt - square)
+            toCheck = tmp
+
+        return cnt
 
 
 print(Solution().numSquares(1535))
